@@ -1,6 +1,6 @@
 module github.com/openstack-k8s-operators/designate-operator
 
-go 1.24.4
+go 1.25.0
 
 require (
 	github.com/go-logr/logr v1.4.3
